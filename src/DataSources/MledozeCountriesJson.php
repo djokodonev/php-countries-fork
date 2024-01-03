@@ -45,7 +45,7 @@ class MledozeCountriesJson implements DataSourceInterface
             $country->languages = array_values((array) $countryDataItem->languages);
             $country->languageCodes = array_keys((array) $countryDataItem->languages);
             $country->currencyCodes = $countryDataItem->currencies;
-            $country->callingCodes = $countryDataItem->callingCode;
+            $country->callingCodes = $countryDataItem->callingCodes;
             $country->capital = $countryDataItem->capital;
             $country->region = $countryDataItem->region;
             $country->subregion = $countryDataItem->subregion;
