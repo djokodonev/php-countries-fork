@@ -15,6 +15,10 @@
         {
             "name": "Jordan Hall",
             "email": "jordan.hall@rapidweb.biz"
+        },
+        {
+            "name": "George Donev",
+            "email": "djokodonev@gmail.com"
         }
     ],
     "autoload": {
