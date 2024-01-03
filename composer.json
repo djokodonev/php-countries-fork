@@ -3,12 +3,12 @@
     "description": "PHP Countries is a library that provides an elegant syntax to country data.",
     "type": "library",
     "require": {
-        "php": "^7.0",
+        "php": "^8.1",
         "mledoze/countries": "^1.8"
     },
     "require-dev": {
-        "phpunit/phpunit": "^5.7",
-        "satooshi/php-coveralls": "^2.0"
+        "phpunit/phpunit": "^10.3.2",
+        "satooshi/php-coveralls": "*"
     },
     "license": "LGPL-3.0-only",
     "authors": [
